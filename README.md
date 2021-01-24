@@ -8,7 +8,7 @@ high-altitude balloon experimental platform
 
   * Redundant telemetry link 
   * Gondola orientation tracking and logging 
-  * Realiable IMU sensor processing and caliblation
+  * Reliable IMU sensor processing and calibration
   * Possible of use relative high-power payloads
   * Pre-flight continuous charging possible
   * Power monitoring and maximal uptime calculation relevant to actual temperature
