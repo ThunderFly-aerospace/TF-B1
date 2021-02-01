@@ -19,3 +19,4 @@ high-altitude balloon experimental platform
   * [FIK-5 experiment](https://github.com/ODZ-UJF-AV-CR/FIK-5)
 
 
+Professional support for ThunderFly TF-B1 experimental high-altitude stratospheric ballon platform is commercialy available from [ThunderFly s.r.o.](https://www.thunderfly.cz/), write an email to info@thunderfly.cz in case you are interested! :) 
