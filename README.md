@@ -27,3 +27,12 @@ Furthermore, their short-duration flights make pressurized stratospheric balloon
   * [FIK-5 experiment](https://github.com/ODZ-UJF-AV-CR/FIK-5)
 
 Professional support for ThunderFly TF-B1 experimental high-altitude stratospheric balloon platform is commercially available even in the form of service from [ThunderFly s.r.o.](https://www.thunderfly.cz/), write an email to info@thunderfly.cz
+
+### Hardware components
+
+  * [TFGPS01](https://docs.thunderfly.cz/avionics/TFGPS01/)
+  * [TFSIK01](https://docs.thunderfly.cz/avionics/TFSIK01/)
+  * [TFLORA01](https://docs.thunderfly.cz/avionics/TFLORA01/)
+  * [TFHT02](https://docs.thunderfly.cz/avionics/TFHT02/)
+
+
