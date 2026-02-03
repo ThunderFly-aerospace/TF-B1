@@ -1,0 +1,3 @@
+[submodule "hw/TFQFHANT01"]
+	path = hw/TFQFHANT01
+	url = git@github.com:ThunderFly-aerospace/TFQFHANT01.git
